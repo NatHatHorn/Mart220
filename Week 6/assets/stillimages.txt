@@ -1,0 +1,4 @@
+assets\skull.png
+assets\bolt.png
+assets\heart.png
+
