@@ -1,0 +1,10 @@
+assets/WalkL1.png
+assets/WalkL2.png
+assets/WalkL3.png
+assets/WalkL4.png
+assets/WalkL5.png
+assets/WalkL6.png
+assets/WalkL7.png
+assets/WalkL8.png
+assets/WalkL9.png
+assets/WalkL10.png
